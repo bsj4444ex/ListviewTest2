@@ -12,6 +12,9 @@ import android.widget.AbsListView;
 
 import java.util.ArrayList;
 import java.util.List;
+/**
+* 滑动列表头菜单自动消失
+**/
 
 public class MainActivity extends Activity {
 

@@ -11,7 +11,7 @@ import android.widget.ListView;
  */
 public class ListView2 extends ListView {
 
-    private static int mMaxOverDistance = 300;//该值决定留白处大小
+    private static int mMaxOverDistance = 50;//该值决定留白处大小
 
     public ListView2(Context context) {
         super(context);
